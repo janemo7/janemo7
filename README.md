@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am a junior specialist in DATA ANALYTICS.
+Прошла обучение по программе аналитик данных
 
 <!--
 **janemo7/janemo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
