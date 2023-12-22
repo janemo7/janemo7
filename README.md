@@ -1,12 +1,13 @@
 ### Hi there 👋
-# I am a junior specialist in DATA ANALYTICS.
+# I am a junior data analyst.
 Прошла обучение по программе Аналитик данных от Яндекс Практикум.  
+
 **Ищу новые возможности для дальнейшего развития в этом направлении**
 
 ### [Мое резюме](https://hh.ru/applicant/resumes/view?resume=df412ee7ff01f825430039ed1f596f444f7942)
 ### [Tableau](https://public.tableau.com/app/profile/.24128187/vizzes)
 
-
+## [Основные навыки:](https://www.postgresql.org/)
 
 <!--
 **janemo7/janemo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
